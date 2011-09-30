@@ -1,4 +1,4 @@
-=== Electric Studio Mailer ===
+=== Filter pages by parent in admin ===
 Contributors: irvingswiftj, Electric Studio
 Tags: wp-admin, parent, filter, pages, page, sort, child
 Requires at least: 3.1
