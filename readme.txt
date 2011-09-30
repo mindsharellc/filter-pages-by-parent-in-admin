@@ -30,8 +30,12 @@ Else, to install manually:
 = 1.0 =
 * Version 1.
 
+= 1.1 =
+* bug fix for Drafts and Trashed Pages
+
 == Upgrade Notice ==
 
 = 1.0 =
 
-
+= 1.1 =
+Bug fix
