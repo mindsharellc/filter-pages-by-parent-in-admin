@@ -3,7 +3,7 @@ Contributors: irvingswiftj, Electric Studio
 Tags: wp-admin, parent, filter, pages, page, sort, child
 Requires at least: 3.1
 Tested up to: 3.2.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Filter pages in the wp-admin by their parent
 
