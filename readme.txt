@@ -2,8 +2,8 @@
 Contributors: irvingswiftj, Electric Studio
 Tags: wp-admin, parent, filter, pages, page, sort, child
 Requires at least: 3.1
-Tested up to: 3.2.1
-Stable tag: 1.1
+Tested up to: 3.3.1
+Stable tag: 1.2
 
 Filter pages in the wp-admin by their parent
 
@@ -33,9 +33,19 @@ Else, to install manually:
 = 1.1 =
 * bug fix for Drafts and Trashed Pages
 
+= 1.2 =
+* Works on multiple post types
+* Limited to heirachical post types only
+* No longer erroneously appear in the media section
+* Is now Object Orientated rather than procedural 
+
 == Upgrade Notice ==
 
 = 1.0 =
+Inital Release
 
 = 1.1 =
 Bug fix
+
+= 1.2 =
+Slight fine tuning
