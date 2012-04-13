@@ -3,7 +3,7 @@
 Plugin Name: Filter by parent in admin
 Plugin URI: http://www.electricstudio.co.uk
 Description: Filter pages in wp-admin by their parent page
-Version: 1.3
+Version: 1.4
 Author: James Irving-Swift
 Author URI: http://www.irving-swift.com
 License: GPL2
@@ -57,7 +57,7 @@ class ES_page_filter {
 	        $childPages = get_pages(
 	            array(
 	                'child_of' => $_GET['parentId'],
-	                'post_status' => array('publish','draft','trash')
+	                'post_status' => array('publish','draft','trash','future')
 	                )
 	             );
 	        
