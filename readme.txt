@@ -1,5 +1,5 @@
 === Filter Pages by parent in admin ===
-Contributors: irvingswiftj, Electric Studio
+Contributors: irvingswiftj, Matthew Burrows, Electric Studio
 Tags: wp-admin, parent, filter, pages, page, sort, child
 Requires at least: 3.1
 Tested up to: 3.3.1
