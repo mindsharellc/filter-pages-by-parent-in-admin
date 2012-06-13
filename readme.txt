@@ -5,7 +5,7 @@ Requires at least: 3.1
 Tested up to: 3.3.1
 Stable tag: 1.3
 
-Filter pages in the wp-admin by their parent
+Filter pages in the wp-admin by their parent pages
 
 == Description ==
 
